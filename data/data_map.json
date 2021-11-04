@@ -1,0 +1,100 @@
+{
+    "0" : {
+        "icon" : "♣",
+        "foreground" : "fg_vert",
+        "background" : "bg_noir",
+        "name" : "chêne",
+        "can_walk" : true
+    },
+    "1" : {
+        "icon" : "▒",
+        "foreground" : "fg_bleu",
+        "background" : "bg_noir",
+        "name" : "rivière",
+        "can_walk" : false
+    },
+    "4" : {
+        "icon" : "§",
+        "foreground" : "fg_blanc",
+        "background" : "bg_bleu",
+        "name" : "mer",
+        "can_walk" : false
+    },
+    "2" : {
+        "icon" : "░",
+        "foreground" : "fg_noir",
+        "background" : "bg_jaune",
+        "name" : "sable",
+        "can_walk" : true
+    },
+    "3" : {
+        "icon" : "♀",
+        "foreground" : "fg_magenta",
+        "background" : "bg_vert",
+        "name" : "prairie",
+        "can_walk" : true
+    },
+    "5" : {
+        "icon" : "■",
+        "foreground" : "fg_blanc",
+        "background" : "bg_bleu",
+        "name" : "pont",
+        "can_walk" : true
+    },
+    "6" : {
+        "icon" : "▲",
+        "foreground" : "fg_blanc",
+        "background" : "bg_245",
+        "name" : "montagne",
+        "can_walk" : false
+    },
+    "7" : {
+        "icon" : "☼",
+        "foreground" : "fg_rouge",
+        "background" : "bg_jaune",
+        "name" : "volcan",
+        "can_walk" : false
+    },
+    "8" : {
+        "icon" : "ð",
+        "foreground" : "fg_vert",
+        "background" : "bg_noir",
+        "name" : "palmier",
+        "can_walk" : true
+    },
+    "9" : {
+        "icon" : "♠",
+        "foreground" : "fg_vert",
+        "background" : "bg_noir",
+        "name" : "sapin",
+        "can_walk" : true
+    },
+    "b" : {
+        "icon" : "Ø",
+        "foreground" : "fg_noir",
+        "background" : "bg_blanc",
+        "name" : "bord de map",
+        "can_walk" : false
+    },
+    "l" : {
+        "icon" : "░",
+        "foreground" : "fg_noir",
+        "background" : "bg_jaune",
+        "name" : "joueur",
+        "can_walk" : true
+    },
+    "s" : {
+        "icon" : "◘",
+        "foreground" : "fg_magenta",
+        "background" : "bg_noir",
+        "name" : "porte",
+        "can_walk" : true
+    },
+    "f" : {
+        "icon" : "ß",
+        "foreground" : "fg_cyan",
+        "background" : "",
+        "name" : "porte",
+        "can_walk" : true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "name": "lezard",
+    "icon": "@",
+    "foreground" : "fg_rouge",
+    "background" : "bg_noir",
+    "player_y": null,
+    "player_x": null,
+    "défi_1": false,
+    "défi_2": false,
+    "défi_3": false
+}
